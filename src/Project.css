@@ -53,7 +53,14 @@ h5.project__text {
     font-weight: 600;
     font-size: 30px;
     padding-bottom: 20px;
-    color: black;
+    color: rgb(17, 16, 16);
+    text-align: center;
+}
+h5.project__text2 {
+    font-weight: 600;
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: rgb(155, 117, 117);
     text-align: center;
 }
 h4.project__text {
@@ -66,13 +73,15 @@ h4.project__text {
 }
 a.project__btn {
     padding: 6px 30px;
-    font-weight: 600;
+    margin-bottom: 20px;
+    
     border: 2px solid #ffffff87;
     border-radius: 5px;
     transition: .4s ease;
     color: black;
     text-align: center;
-    
+    background-color: #489280;
+    border: 2px solid #b6a3ac;
 }
 a.project__btn:hover{
     background-color: #f9004d;
@@ -101,6 +110,7 @@ h5.project__text {
     font-weight: 400;
     font-size: 20px;
     padding-bottom: 20px;
+    
 }
 h4.project__text {
     font-size: 18px;

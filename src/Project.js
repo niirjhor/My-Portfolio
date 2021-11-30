@@ -34,13 +34,14 @@ function Project() {
                                 <div className="mask__effect"></div>
                             </div>
                             <div className="project__meta absolute">
-                                <h5 className="project__text fw-bold">Glamstar-An Online Store</h5>
+
 
                                 <div> <a target='_blank' href="https://create-react-auth.web.app/" className="project__btn">Live Link</a>
                                     <a target='_blank' href="https://glamstar1.netlify.app/" className="project__btn">Details</a></div>
 
 
                             </div>
+                            <h5 className="project__text2 fw-bold">Glamstar-An Online <br /> Store</h5>
                         </div>
                     </div>
 
@@ -54,12 +55,15 @@ function Project() {
                                 <div className="mask__effect"></div>
                             </div>
                             <div className="project__meta absolute">
-                                <h5 className="project__text">Miracle Tourism Limited</h5>
+
 
                                 <div> <a target='_blank' href="https://miracle-tourism-ltd.web.app/" className="project__btn">Live Link</a>
                                     <a target='_blank' href="https://miracle-toursism.netlify.app/" className="project__btn">Details</a></div>
                             </div>
+                            <h5 className="project__text2">Miracle Tourism <br /> Limited</h5>
+
                         </div>
+
                     </div>
 
 
@@ -72,21 +76,18 @@ function Project() {
                                 <div className="mask__effect"></div>
                             </div>
                             <div className="project__meta absolute">
-                                <h5 className="project__text">Specialized Diagnostic Center</h5>
+
 
                                 <div> <a target='_blank' href="https://specialised-diagonistic-center.web.app/" className="project__btn">Live Link</a>
                                     <a target='_blank' href="https://specialized-diagonistic-center.netlify.app/" className="project__btn">Details</a></div>
                             </div>
+                            <h5 className="project__text2">Specialized <br /> Diagnostic Center</h5>
                         </div>
                     </div>
 
 
 
-                    <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
 
-
-                        <button className="view__more pointer btn"><link rel="stylesheet" href="" />View more</button>
-                    </div>
 
                 </div>
             </div>

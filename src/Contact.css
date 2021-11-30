@@ -33,7 +33,7 @@ input.contact{
     width: 100%;
     overflow: hidden;
 }
-textarea#message{
+.message{
     height: 120px;
     background: none;
     padding: 0 20px;

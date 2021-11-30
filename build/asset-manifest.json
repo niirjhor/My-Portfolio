@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2a7df0a.chunk.css",
+    "main.js": "/static/js/main.0ae55ca1.chunk.js",
+    "main.js.map": "/static/js/main.0ae55ca1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4742e591.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4742e591.js.map",
+    "static/js/2.789900ba.chunk.js": "/static/js/2.789900ba.chunk.js",
+    "static/js/2.789900ba.chunk.js.map": "/static/js/2.789900ba.chunk.js.map",
+    "static/js/3.14a8386f.chunk.js": "/static/js/3.14a8386f.chunk.js",
+    "static/js/3.14a8386f.chunk.js.map": "/static/js/3.14a8386f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e2a7df0a.chunk.css.map": "/static/css/main.e2a7df0a.chunk.css.map",
+    "static/js/2.789900ba.chunk.js.LICENSE.txt": "/static/js/2.789900ba.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/11223528_1056743631003140_2889818782187043072_n.c850eeb9.jpg",
+    "static/media/Glamstar10.e5170b34.JPG": "/static/media/Glamstar10.e5170b34.JPG",
+    "static/media/Glamstar2.872bd7df.JPG": "/static/media/Glamstar2.872bd7df.JPG",
+    "static/media/Glamstar3.03468d7d.JPG": "/static/media/Glamstar3.03468d7d.JPG",
+    "static/media/Glamstar4.ac9d5227.JPG": "/static/media/Glamstar4.ac9d5227.JPG",
+    "static/media/Glamstar5.07907c02.JPG": "/static/media/Glamstar5.07907c02.JPG",
+    "static/media/Glamstar6.d9c2c4e4.JPG": "/static/media/Glamstar6.d9c2c4e4.JPG",
+    "static/media/Glamstar7.420fafc6.JPG": "/static/media/Glamstar7.420fafc6.JPG",
+    "static/media/Glamstar8.d5aa6a28.JPG": "/static/media/Glamstar8.d5aa6a28.JPG",
+    "static/media/Glamstar9.d5ecd15c.JPG": "/static/media/Glamstar9.d5ecd15c.JPG",
+    "static/media/about-9.ec73e645.jpg": "/static/media/about-9.ec73e645.jpg",
+    "static/media/about2.a33001bb.jpg": "/static/media/about2.a33001bb.jpg",
+    "static/media/blog-01.67ebb920.jpg": "/static/media/blog-01.67ebb920.jpg",
+    "static/media/blog-02.6ecd55ed.jpg": "/static/media/blog-02.6ecd55ed.jpg",
+    "static/media/blog-03.1bced0df.jpg": "/static/media/blog-03.1bced0df.jpg",
+    "static/media/portfolio-1.6dd6354d.jpg": "/static/media/portfolio-1.6dd6354d.jpg",
+    "static/media/portfolio-3.e1d203d2.jpg": "/static/media/portfolio-3.e1d203d2.jpg",
+    "static/media/portfolio-4.2d8bf5e6.jpg": "/static/media/portfolio-4.2d8bf5e6.jpg",
+    "static/media/screencapture-create-react-auth-web-app-2021-11-30-16_11_56.dcf6f22d.png": "/static/media/screencapture-create-react-auth-web-app-2021-11-30-16_11_56.dcf6f22d.png",
+    "static/media/screencapture-miracle-tourism-ltd-web-app-2021-11-30-16_21_18.f605dfbd.png": "/static/media/screencapture-miracle-tourism-ltd-web-app-2021-11-30-16_21_18.f605dfbd.png",
+    "static/media/screencapture-specialised-diagonistic-center-web-app-2021-11-30-16_25_53.66051ed1.png": "/static/media/screencapture-specialised-diagonistic-center-web-app-2021-11-30-16_25_53.66051ed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4742e591.js",
+    "static/js/2.789900ba.chunk.js",
+    "static/css/main.e2a7df0a.chunk.css",
+    "static/js/main.0ae55ca1.chunk.js"
+  ]
+}
