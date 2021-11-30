@@ -7,8 +7,11 @@ import "./Home.css";
 import logo from "./img/logo.png";
 import Project from "./Project";
 import Projects from "./Projects";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faFacebook } from "@fortawesome/free-brands-svg-icons"
 
 function Home() {
+  <i class="fab fa-facebook-f"></i>
   // fixed Header
   window.addEventListener("scroll", function () {
     const header = document.querySelector(".header");
@@ -32,6 +35,7 @@ function Home() {
                 <li className="nav__items mx__15">About</li>
               </a>
 
+
               <a href="#Portfolio">
                 <li className="nav__items mx__15">Portfolio</li>
               </a>
@@ -39,6 +43,7 @@ function Home() {
               <a href="#Contact">
                 <li className="nav__items mx__15">Contact</li>
               </a>
+
             </ul>
           </div>
           {/* Toogle Menu */}
@@ -75,6 +80,21 @@ function Home() {
 
                   <a href="#Contact">Contact</a>
                 </li>
+                <li className="sideNavbar">
+                  <div >
+                    <a href="https://www.facebook.com/nirjhor.iftahaj" target="_blank" rel="noopener" class="btn-icon-only rounded-circle ml-1 btn btn-facebook" aria-label="Facebook"><span class="btn-inner--icon"><i class="fa fa-facebook-square"></i></span></a>
+                  </div>
+                </li>
+                <li className="sideNavbar">
+                  <div >
+                    <a rel="noopener" href="https://www.linkedin.com/in/nirjhor-iftahaj-a4a62184/" target="_blank" class="btn-icon-only rounded-circle ml-1 btn btn-twitter" aria-label="Linkedin"><span class="btn-inner--icon"><i class="fa fa-linkedin"></i></span></a>
+                  </div>
+                </li>
+                <li className="sideNavbar">
+                  <div >
+                    <a rel="noopener" aria-label="Github" href="https://github.com/niirjhor" target="_blank" class="nav-link-icon nav-link"><i class="fa fa-github"></i><span class="nav-link-inner--text d-lg-none ml-2">Github</span></a>
+                  </div>
+                </li>
               </ul>
             </div>
           ) : null}
@@ -87,6 +107,16 @@ function Home() {
               <h2 className="home__text pz__10">Hi, I’m Kaim Iftahaj Nirjhor</h2>
               <h3 className="home__text sweet pz__10">Junior Web Developer.</h3>
               <h4 className="home__text pz__10">based in Bangladesh.</h4>
+            </div>
+            <div>
+              <div >
+                <a href="https://www.facebook.com/nirjhor.iftahaj" target="_blank" rel="noopener" class="btn-icon-only rounded-circle ml-1 btn btn-facebook" aria-label="Facebook"><span class="btn-inner--icon"><i class="fa fa-facebook-square"></i></span></a>
+              </div>
+              <div>
+                <a rel="noopener" href="https://www.linkedin.com/in/nirjhor-iftahaj-a4a62184/" target="_blank" class="btn-icon-only rounded-circle ml-1 btn btn-twitter" aria-label="Linkedin"><span class="btn-inner--icon"><i class="fa fa-linkedin"></i></span></a>
+              </div>
+              <div>
+                <a rel="noopener" aria-label="Github" href="https://github.com/niirjhor" target="_blank" class="nav-link-icon nav-link"><i class="fa fa-github"></i><span class="nav-link-inner--text d-lg-none ml-2">Github</span></a></div>
             </div>
           </div>
         </div>

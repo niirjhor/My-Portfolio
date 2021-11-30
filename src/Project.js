@@ -33,15 +33,14 @@ function Project() {
                                 </div>
                                 <div className="mask__effect"></div>
                             </div>
-                            <div className="project__meta absolute">
 
-
-                                <div> <a target='_blank' href="https://create-react-auth.web.app/" className="project__btn">Live Link</a>
-                                    <a target='_blank' href="https://glamstar1.netlify.app/" className="project__btn">Details</a></div>
-
-
-                            </div>
                             <h5 className="project__text2 fw-bold">Glamstar-An Online <br /> Store</h5>
+                            <div className="">
+
+
+                                <div> <a target='_blank' href="https://miracle-tourism-ltd.web.app/" className="project__btn">Live Link</a>
+                                    <a target='_blank' href="https://miracle-toursism.netlify.app/" className="project__btn">Details</a></div>
+                            </div>
                         </div>
                     </div>
 
@@ -54,13 +53,16 @@ function Project() {
                                 </div>
                                 <div className="mask__effect"></div>
                             </div>
-                            <div className="project__meta absolute">
+
+                            <h5 className="project__text2">Miracle Tourism <br /> Limited</h5>
+                            <div className="">
 
 
                                 <div> <a target='_blank' href="https://miracle-tourism-ltd.web.app/" className="project__btn">Live Link</a>
                                     <a target='_blank' href="https://miracle-toursism.netlify.app/" className="project__btn">Details</a></div>
                             </div>
-                            <h5 className="project__text2">Miracle Tourism <br /> Limited</h5>
+
+
 
                         </div>
 
@@ -75,13 +77,14 @@ function Project() {
                                 </div>
                                 <div className="mask__effect"></div>
                             </div>
-                            <div className="project__meta absolute">
 
-
-                                <div> <a target='_blank' href="https://specialised-diagonistic-center.web.app/" className="project__btn">Live Link</a>
-                                    <a target='_blank' href="https://specialized-diagonistic-center.netlify.app/" className="project__btn">Details</a></div>
-                            </div>
                             <h5 className="project__text2">Specialized <br /> Diagnostic Center</h5>
+                            <div className="">
+
+
+                                <div> <a target='_blank' href="https://miracle-tourism-ltd.web.app/" className="project__btn">Live Link</a>
+                                    <a target='_blank' href="https://miracle-toursism.netlify.app/" className="project__btn">Details</a></div>
+                            </div>
                         </div>
                     </div>
 

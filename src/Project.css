@@ -72,9 +72,9 @@ h4.project__text {
     text-align: center;
 }
 a.project__btn {
-    padding: 6px 30px;
+    padding: 8px 30px;
     margin-bottom: 20px;
-    
+    margin-left: 20px;
     border: 2px solid #ffffff87;
     border-radius: 5px;
     transition: .4s ease;
