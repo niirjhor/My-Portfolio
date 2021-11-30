@@ -21,28 +21,28 @@ function Contact() {
                             <p className="hire__text white">I am available for freelance work. Connect with me via phone:</p>
                             <p className="hire__text white"><strong>+8436 14 245</strong> or email <strong>admin@example.com</strong></p>
                         </div>
-                        <form action="" onSubmit={sendEmail}>
+                        {/* <form action="" onSubmit={sendEmail}> */}
 
-                            <label>name</label>
+                        {/* <label>name</label>
                             <input type="text" name="name" id="" />
                             <label>Email</label>
                             <input type="email" name="user_email" id="" />
 
                             <label>Message</label>
                             <input type="text" name="message" id="" />
-                            <input type="submit" value="Send" />
+                            <input type="submit" value="Send" /> */}
 
-                            {/* <div className="input__box">
+                        <div className="input__box">
 
-                                <input type="text" name="name" className="name" placeholder="Your name *" />
-                                <input type="text" name="user_email" className="contact email" placeholder="Your Email *" />
-                                <input type="text" className="contact subject" placeholder="Write a Subject" />
-                                <textarea name="message" id="message" placeholder="Write Your message"></textarea>
-                                <input type="submit"
-                                    value="Send" />
+                            <input type="text" name="name" className="name" placeholder="Your name *" />
+                            <input type="text" name="user_email" className="contact email" placeholder="Your Email *" />
+                            <input type="text" className="contact subject" placeholder="Write a Subject" />
+                            <textarea name="message" id="message" placeholder="Write Your message"></textarea>
+                            <input type="submit"
+                                value="Send" />
 
-                            </div> */}
-                        </form>
+                        </div>
+                        {/* </form> */}
                     </div>
                 </div>
                 <div className="col__2">
