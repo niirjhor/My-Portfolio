@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url(C:/Users/SHAJIB/Pictures/portfolio/src/img/bg.jpg);
+    background-image: url(F:\Projects\developer-portfolio-nirjhor\portfolio-you-tube-project\src\img/11223528_1056743631003140_2889818782187043072_n.jpg);
     background-color: #010101;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -8,7 +8,12 @@
 li.nav__items{
     font-size: 18px;
     padding-bottom: 15px;
+    color:blue;
+
+
 }
+
+
 .home__content{
     padding: 125px 0px;
 }

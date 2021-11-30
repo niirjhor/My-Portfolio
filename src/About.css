@@ -37,6 +37,18 @@ a.bottom__to__top{
     transition: .4s all ease;
     z-index: 1000;
 }
+.skills {
+    display: flex;
+    flex-wrap: wrap; }
+    .skills__skill {
+      padding:2px;
+      margin-bottom: 1.5rem;
+      margin-right: 1.5rem;
+      font-size: 1.6rem;
+      background: rgba(153, 153, 153, 0.2);
+      border-radius: 5px;
+      font-weight: 600;
+      color: #777; }
 a.bottom__to__top.active{
     display: flex;
 }
