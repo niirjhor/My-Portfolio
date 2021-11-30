@@ -1,7 +1,7 @@
 import React from 'react';
 import './Contact.css';
 import emailjs from 'email-js'
-import contactImg from "./img"
+import contactImg from "./img/about-9.jpg"
 function Contact() {
 
     function sendEmail(e) {

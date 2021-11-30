@@ -1,14 +1,13 @@
-[debug] [2021-11-30T17:38:23.539Z] ----------------------------------------------------------------------
-[debug] [2021-11-30T17:38:23.541Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2021-11-30T17:38:23.541Z] CLI Version:   9.23.0
-[debug] [2021-11-30T17:38:23.542Z] Platform:      win32
-[debug] [2021-11-30T17:38:23.542Z] Node Version:  v14.17.1
-[debug] [2021-11-30T17:38:23.543Z] Time:          Tue Nov 30 2021 23:38:23 GMT+0600 (Bangladesh Standard Time)
-[debug] [2021-11-30T17:38:23.543Z] ----------------------------------------------------------------------
+[debug] [2021-11-30T17:42:26.694Z] ----------------------------------------------------------------------
+[debug] [2021-11-30T17:42:26.696Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-30T17:42:26.697Z] CLI Version:   9.23.0
+[debug] [2021-11-30T17:42:26.697Z] Platform:      win32
+[debug] [2021-11-30T17:42:26.697Z] Node Version:  v14.17.1
+[debug] [2021-11-30T17:42:26.698Z] Time:          Tue Nov 30 2021 23:42:26 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-11-30T17:42:26.698Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2021-11-30T17:38:23.545Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
-[debug] [2021-11-30T17:38:23.567Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2021-11-30T17:38:23.567Z] > authorizing via signed-in user (niirjhor@gmail.com)
+[debug] [2021-11-30T17:42:26.706Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-30T17:42:26.706Z] > authorizing via signed-in user (niirjhor@gmail.com)
 [info] 
      ######## #### ########  ######## ########     ###     ######  ########
      ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
@@ -20,27 +19,3 @@ You're about to initialize a Firebase project in this directory:
 
   F:\Projects\developer-portfolio-nirjhor\portfolio-you-tube-project
 
-[debug] [2021-11-30T17:38:49.081Z] ----------------------------------------------------------------------
-[debug] [2021-11-30T17:38:49.085Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2021-11-30T17:38:49.085Z] CLI Version:   9.23.0
-[debug] [2021-11-30T17:38:49.086Z] Platform:      win32
-[debug] [2021-11-30T17:38:49.086Z] Node Version:  v14.17.1
-[debug] [2021-11-30T17:38:49.087Z] Time:          Tue Nov 30 2021 23:38:49 GMT+0600 (Bangladesh Standard Time)
-[debug] [2021-11-30T17:38:49.088Z] ----------------------------------------------------------------------
-[debug] 
-[debug] [2021-11-30T17:38:49.091Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
-[debug] [2021-11-30T17:38:49.130Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2021-11-30T17:38:49.130Z] > authorizing via signed-in user (niirjhor@gmail.com)
-[info] 
-     ######## #### ########  ######## ########     ###     ######  ########
-     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
-     ######    ##  ########  ######   ########  #########  ######  ######
-     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
-     ##       #### ##     ## ######## ########  ##     ##  ######  ########
-
-You're about to initialize a Firebase project in this directory:
-
-  F:\Projects\developer-portfolio-nirjhor\portfolio-you-tube-project
-
-[debug] [2021-11-30T17:38:50.037Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
-[debug] [2021-11-30T17:38:50.037Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
