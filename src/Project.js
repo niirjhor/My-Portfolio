@@ -38,8 +38,8 @@ function Project() {
                             <div className="">
 
 
-                                <div> <a target='_blank' href="https://miracle-tourism-ltd.web.app/" className="project__btn">Live Link</a>
-                                    <a target='_blank' href="https://miracle-toursism.netlify.app/" className="project__btn">Details</a></div>
+                                <div> <a target='_blank' href="https://create-react-auth.web.app/" className="project__btn">Live Link</a>
+                                    <a target='_blank' href="https://glamstar1.netlify.app/" className="project__btn">Details</a></div>
                             </div>
                         </div>
                     </div>
@@ -82,8 +82,8 @@ function Project() {
                             <div className="">
 
 
-                                <div> <a target='_blank' href="https://miracle-tourism-ltd.web.app/" className="project__btn">Live Link</a>
-                                    <a target='_blank' href="https://miracle-toursism.netlify.app/" className="project__btn">Details</a></div>
+                                <div> <a target='_blank' href="https://specialised-diagonistic-center.web.app/" className="project__btn">Live Link</a>
+                                    <a target='_blank' href="https://specialized-diagonistic-center.netlify.app/" className="project__btn">Details</a></div>
                             </div>
                         </div>
                     </div>

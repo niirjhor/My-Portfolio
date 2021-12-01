@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fafc6a06.chunk.css",
-    "main.js": "/static/js/main.28c66ca6.chunk.js",
-    "main.js.map": "/static/js/main.28c66ca6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5288bb0d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5288bb0d.js.map",
-    "static/js/2.8f04fc59.chunk.js": "/static/js/2.8f04fc59.chunk.js",
-    "static/js/2.8f04fc59.chunk.js.map": "/static/js/2.8f04fc59.chunk.js.map",
-    "static/js/3.20e579ce.chunk.js": "/static/js/3.20e579ce.chunk.js",
-    "static/js/3.20e579ce.chunk.js.map": "/static/js/3.20e579ce.chunk.js.map",
+    "main.css": "/static/css/main.d7e914c4.chunk.css",
+    "main.js": "/static/js/main.ed6a277a.chunk.js",
+    "main.js.map": "/static/js/main.ed6a277a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0cf35636.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0cf35636.js.map",
+    "static/js/2.0d4eea0d.chunk.js": "/static/js/2.0d4eea0d.chunk.js",
+    "static/js/2.0d4eea0d.chunk.js.map": "/static/js/2.0d4eea0d.chunk.js.map",
+    "static/js/3.f7a9ab83.chunk.js": "/static/js/3.f7a9ab83.chunk.js",
+    "static/js/3.f7a9ab83.chunk.js.map": "/static/js/3.f7a9ab83.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fafc6a06.chunk.css.map": "/static/css/main.fafc6a06.chunk.css.map",
-    "static/js/2.8f04fc59.chunk.js.LICENSE.txt": "/static/js/2.8f04fc59.chunk.js.LICENSE.txt",
+    "static/css/main.d7e914c4.chunk.css.map": "/static/css/main.d7e914c4.chunk.css.map",
+    "static/js/2.0d4eea0d.chunk.js.LICENSE.txt": "/static/js/2.0d4eea0d.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/static/media/11223528_1056743631003140_2889818782187043072_n.c850eeb9.jpg",
     "static/media/Glamstar10.e5170b34.JPG": "/static/media/Glamstar10.e5170b34.JPG",
     "static/media/Glamstar2.872bd7df.JPG": "/static/media/Glamstar2.872bd7df.JPG",
@@ -35,9 +35,9 @@
     "static/media/screencapture-specialised-diagonistic-center-web-app-2021-11-30-16_25_53.66051ed1.png": "/static/media/screencapture-specialised-diagonistic-center-web-app-2021-11-30-16_25_53.66051ed1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5288bb0d.js",
-    "static/js/2.8f04fc59.chunk.js",
-    "static/css/main.fafc6a06.chunk.css",
-    "static/js/main.28c66ca6.chunk.js"
+    "static/js/runtime-main.0cf35636.js",
+    "static/js/2.0d4eea0d.chunk.js",
+    "static/css/main.d7e914c4.chunk.css",
+    "static/js/main.ed6a277a.chunk.js"
   ]
 }
